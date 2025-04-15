@@ -52,6 +52,7 @@ function PageThree() {
           <InfoCard title={productName} price={price} inStock={inStock} />
         </div>
       </div>
+      <Links />
       <Copywrite />
     </>
   );
