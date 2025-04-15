@@ -10,6 +10,7 @@ import ItemGallery from "./components/ItemGallery.jsx";
 import ImageCarousel from "./components/ImageCarousel.jsx";
 import InfoCard from "./components/InfoCard.jsx";
 
+
 function PageOne() {
   return (
     <>
