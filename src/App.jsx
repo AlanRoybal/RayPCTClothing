@@ -15,7 +15,7 @@ function PageOne() {
     <>
       <Header />
       <Backdrop />
-      <Drops jsonDataUrl="./src/assets/data.json" />
+      <Drops jsonDataUrl="/assets/data.json" />
       <Links />
       <Copywrite />
     </>
@@ -26,7 +26,7 @@ function PageTwo() {
   return (
     <>
       <Header />
-      <ItemGallery jsonDataUrl="./src/assets/gallery.json" />
+      <ItemGallery jsonDataUrl="/assets/gallery.json" />
       <Copywrite />
     </>
   );
