@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "PCT OU WKND",
-      "price": 181.00,
+      "price": 20.00,
       "image": "/assets/items/item1.png",
       "inStock": false,
       "images": ["/assets/item1carousel/image.jfif", "/assets/item1carousel/image2.jfif", "/assets/item1carousel/gooch.png"]
@@ -10,92 +10,57 @@
     {
       "id": 2,
       "title": "PCT STANDARD SHIRT",
-      "price": 117.00,
+      "price": 20.00,
       "image": "/assets/items/item2.png",
       "inStock": false
     },
     {
       "id": 3,
       "title": "PCT CREWNECK",
-      "price": 104.00,
+      "price": 20.00,
       "image": "/assets/items/item3.png",
       "inStock": false
     },
     {
         "id": 4,
         "title": "PCT LOGO HOODIE",
-        "price": 104.00,
-        "image": "/assets/items/item4.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": true
       },
       {
         "id": 5,
         "title": "PCT CANDLE HOODIE",
-        "price": 104.00,
-        "image": "/assets/items/item5.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": false
       },
       {
         "id": 6,
         "title": "INFINITE SPONSOR JERSEY",
-        "price": 288.00,
-        "image": "/assets/items/item6.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": true
       },
       {
         "id": 7,
         "title": "PCT SOCCER CLUB SHIRT",
-        "price": 288.00,
-        "image": "/assets/items/item7.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": true
       },
       {
         "id": 8,
         "title": "PCT FOOTBALL CLUB SHIRT",
-        "price": 142.00,
-        "image": "/assets/items/item8.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": true
       },
       {
         "id": 9,
         "title": "PCT RUN CLUB SHIRT",
-        "price": 142.00,
-        "image": "/assets/items/item9.png",
+        "price": 20.00,
+        "image": "/assets/item1carousel/gooch.png",
         "inStock": true
-      },
-      {
-        "id": 10,
-        "title": "APRIL'S SHERPA - NAVY",
-        "price": 142.00,
-        "image": "/assets/items/item10.png",
-        "inStock": true
-      },
-      {
-        "id": 11,
-        "title": "TEAM TOTE BAG",
-        "price": 80.00,
-        "image": "/assets/items/item11.png",
-        "inStock": true
-      },
-      {
-        "id": 12,
-        "title": "83' DENIM - OLIVE",
-        "price": 104.00,
-        "image": "/assets/items/item12.png",
-        "inStock": false
-      },
-      {
-        "id": 13,
-        "title": "83' DENIM - NAVY",
-        "price": 104.00,
-        "image": "/assets/items/item13.png",
-        "inStock": true
-      },
-      {
-        "id": 14,
-        "title": "SHAPES X YUREMANE",
-        "price": 104.00,
-        "image": "/assets/items/item14.png",
-        "inStock": false
       }
   ]
