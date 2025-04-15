@@ -3,22 +3,22 @@
       "id": 1,
       "title": "PCT OU WKND",
       "price": 20.00,
-      "image": "/assets/items/item1.png",
+      "image": "/assets/items/item1temp.png",
       "inStock": false,
-      "images": ["/assets/item1carousel/image1.png", "/assets/item1carousel/image2.png", "/assets/item1carousel/gooch.png"]
+      "images": ["/assets/item1carousel/item1.png", "/assets/item1carousel/image1.png", "/assets/item1carousel/image2.png", "/assets/item1carousel/gooch.png"]
     },
     {
       "id": 2,
       "title": "PCT STANDARD SHIRT",
       "price": 20.00,
-      "image": "/assets/items/item2.png",
+      "image": "/assets/items/item1temp.png",
       "inStock": false
     },
     {
       "id": 3,
       "title": "PCT CREWNECK",
       "price": 20.00,
-      "image": "/assets/items/item3.png",
+      "image": "/assets/items/item1temp.png",
       "inStock": false
     },
     {
