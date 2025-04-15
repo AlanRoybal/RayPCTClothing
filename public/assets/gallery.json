@@ -5,7 +5,7 @@
       "price": 20.00,
       "image": "/assets/items/item1.png",
       "inStock": false,
-      "images": ["/assets/item1carousel/image.jfif", "/assets/item1carousel/gooch.png"]
+      "images": ["/assets/item1carousel/image1.png", "/assets/item1carousel/image2.png", "/assets/item1carousel/gooch.png"]
     },
     {
       "id": 2,
